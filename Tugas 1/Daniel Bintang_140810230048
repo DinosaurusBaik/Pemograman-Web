@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        <title>
+            HTML Biodata Sederhana
+        </title>
+    </head>
+    <body>
+        <p>
+            <dl>
+                <img src="https://api.himatif.org/data/assets/foto/2023/140810230048.jpg" style="width: 150px; height:200px;">
+                <h2>
+                    Biodata :
+                </h2>
+                <dt>
+                    - NPM   : 140810230048 <br />
+                    - Nama  : Daniel Bintang Wicaksono Sitorus <br />
+                    - Alamat: Dusun, Mekar Asih Rt. 001, Rw. 013, Desa. Hegarmanah, Kec. Jatinangor, Kab Sumedang Jawa Barat, 45463 
+                    <a href="https://maps.app.goo.gl/zjrqLRmRisukVpTT9" style="color:blue">(HOME)</a>
+                </dt>
+                <dt>
+                    - Hobi :
+                    <dd>
+                        1. Baca Buku <br />
+                        2. Photography <br />   
+                        3. Berenang
+                    </dd>
+                </dt>
+            </dl>
+        </p>
+    </body>
+</html>

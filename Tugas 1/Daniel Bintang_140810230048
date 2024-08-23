@@ -1,32 +1,41 @@
 <!DOCTYPE HTML>
 
 <html>
+    <style>
+        img{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
     <head>
         <title>
             HTML Biodata Sederhana
         </title>
     </head>
     <body>
+        <h2 style = "text-align: center;"; style="color: blueviolet;">
+            Biodata Saya
+        </h2>
+        <img src="https://api.himatif.org/data/assets/foto/2023/140810230048.jpg" style="width: 230px; height:300px;" alt="paris" class="center">
         <p>
             <dl>
-                <img src="https://api.himatif.org/data/assets/foto/2023/140810230048.jpg" style="width: 150px; height:200px;">
-                <h2>
-                    Biodata :
-                </h2>
-                <dt>
+                <dt style="text-align: center;"> 
                     - NPM   : 140810230048 <br />
                     - Nama  : Daniel Bintang Wicaksono Sitorus <br />
-                    - Alamat: Dusun, Mekar Asih Rt. 001, Rw. 013, Desa. Hegarmanah, Kec. Jatinangor, Kab Sumedang Jawa Barat, 45463 
-                    <a href="https://maps.app.goo.gl/zjrqLRmRisukVpTT9" style="color:blue">(HOME)</a>
+                    - Alamat: Dusun, Mekar Asih Rt. 001, Rw. 013, Desa. Hegarmanah, Kec. Jatinangor, Kab Sumedang Jawa Barat, 45463 <br />
                 </dt>
-                <dt>
+                <dt style="text-align: center;">
                     - Hobi :
-                    <dd>
+                    <dd style="text-align: center;">
                         1. Baca Buku <br />
                         2. Photography <br />   
                         3. Berenang
                     </dd>
                 </dt>
+                <h2 style="text-align: center;">
+                    <a href="https://maps.app.goo.gl/39VD7AdMzDrZBDJW6" style="color:blue">UNIVERSITAS PADJAJARAN</a>
+                </h2>
             </dl>
         </p>
     </body>

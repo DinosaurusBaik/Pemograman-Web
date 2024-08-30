@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        <link rel="stylesheet" href="Next1.css">
+        <title>
+            HTML Biodata Sederhana
+        </title>
+    </head>
+    <body>
+        <div class="content">
+            
+            <h2 style = "text-align: center;";>
+                BIODATA SAYA
+            </h2>
+            <img src="https://api.himatif.org/data/assets/foto/2023/140810230048.jpg" style="width: 230px; height:300px;" alt="paris" class="center">
+            <p>
+                <dl>
+                    <table>
+                        <tr>
+                            <td>
+                                NPM
+                            </td>
+                            <td>
+                                140810230048
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Nama
+                        </td>
+                        <td>
+                            Daniel Bintang Wicaksono Sitorus
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class = "bolt">
+                            Alamat
+                        </td>
+                        <td>
+                            Dusun, Mekar Asih Rt. 001, Rw. 013, <br/>
+                            Desa. Hegarmanah, Kec. Jatinangor, <br/>
+                            Kab Sumedang Jawa Barat, 45463
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            
+                        </td>
+                        <td>
+                            1. Baca Buku
+                        </td>
+                    <tr/>
+                    <tr>
+                        <td>
+                            Hobi
+                        </td>
+                        <td>
+                            2. Photography
+                        </td> 
+                    </tr>
+                        <td>
+
+                        </td>
+                        <td>
+                            3. Berenang
+                        </td>
+                    </tr>
+                </table>
+                    <h2 style="text-align: center;">
+                    <a href="https://maps.app.goo.gl/39VD7AdMzDrZBDJW6" style="color:blue">UNIVERSITAS PADJAJARAN</a>
+                    </h2>
+                </dl>
+            </p>
+        </div>
+    </body>
+</html>
